@@ -1,5 +1,5 @@
 # Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website
-![Nike Landing Page](https://ibb.co/YRdzrYn)
+![Nike Landing Page](https://i.ibb.co/xCgp4P9/Nike.png)
 
 ## Summary
 Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.
